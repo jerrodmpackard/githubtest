@@ -1,0 +1,14 @@
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/bin/Debug/net7.0/githubtest
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/bin/Debug/net7.0/githubtest.deps.json
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/bin/Debug/net7.0/githubtest.runtimeconfig.json
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/bin/Debug/net7.0/githubtest.dll
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/bin/Debug/net7.0/githubtest.pdb
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.AssemblyInfoInputs.cache
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.AssemblyInfo.cs
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.csproj.CoreCompileInputs.cache
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.dll
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/refint/githubtest.dll
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.pdb
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/githubtest.genruntimeconfig.cache
+/Users/Jerrod/Documents/CodeStackAcademy/Level1/Week1/githubtest/obj/Debug/net7.0/ref/githubtest.dll
